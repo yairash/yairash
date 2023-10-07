@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yairash
 - 👀 I’m interested in Software Engineering
-- 🌱 Freshly graduated with a BS.c in Computer Science
+- 🌱 BS.c in Computer Science
 - 📫 You can reach me at yairashkenazii@gmail.com
 
 <!---
